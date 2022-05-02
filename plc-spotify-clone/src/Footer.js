@@ -15,7 +15,7 @@ function Footer(props) {
       <div className="footer_left">
         <img
           className="footer_albumLogo"
-          src="https://upload.wikimedia.org/wikipedia"
+          src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sanah_on_the_concert_in_August%2C_2021.jpg/220px-Sanah_on_the_concert_in_August%2C_2021.jpg"
           alt="Album Art"
         />
         <div className="footer_songInfo">
